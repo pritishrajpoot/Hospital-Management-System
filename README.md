@@ -1,7 +1,7 @@
 <h1>Hospital Management System</h1>
  
  <p align="center">
-<img src="https://img.shields.io/badge/made%20by%20-Aarti-blue">
+<img src="https://img.shields.io/badge/made%20by%20-pritish-blue">
 <img src="https://img.shields.io/badge/C++-orange">
 <img src="https://img.shields.io/badge/contributions-Welcome-brightgreen">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
